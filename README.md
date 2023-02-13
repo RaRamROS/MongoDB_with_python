@@ -1,2 +1,2 @@
-# MongoDB
-MongoDB examples
+# Manage MongoDB with Python
+Examples of managing MongoDB with Python
